@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aigen_test/static/css/main.84487ea8.css",
+    "main.js": "/aigen_test/static/js/main.696498cc.js",
+    "index.html": "/aigen_test/index.html",
+    "main.84487ea8.css.map": "/aigen_test/static/css/main.84487ea8.css.map",
+    "main.696498cc.js.map": "/aigen_test/static/js/main.696498cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84487ea8.css",
+    "static/js/main.696498cc.js"
+  ]
+}
